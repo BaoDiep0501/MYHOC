@@ -12,8 +12,7 @@ const QUESTIONS = [
   {
     question: "h\u00e3y \u0111i\u1ec1n ti\u1ebfp v\u00e0o n\u1ed9i dung c\u00f2n thi\u1ebfu sau: Tri\u1ebft gia Alexander Baumgarten ng\u01b0\u1eddi \u0110\u1ee9c \u0111\u00e3 d\u00f9ng t\u1eeb \u201cm\u1ef9 h\u1ecdc\u201d cho l\u00fd thuy\u1ebft v\u1ec1\u2026?",
     answers: ["A. Ngh\u1ec7 thu\u1eadt t\u1ef1 do hay khoa h\u1ecdc v\u1ec1 c\u00e1i \u0111\u1eb9p nh\u1eadn th\u1ee9c \u0111\u01b0\u1ee3c", "B. Ngh\u1ec7 thu\u1eadt t\u1ef1 do hay khoa h\u1ecdc v\u1ec1 c\u00e1i \u0111\u1eb9p nh\u1eadn th\u1ee9c \u0111\u01b0\u1ee3c", "C. Ngh\u1ec7 thu\u1eadt t\u1ef1 do hay khoa h\u1ecdc v\u1ec1 c\u00e1i \u0111\u1eb9p", "D. Khoa h\u1ecdc v\u1ec1 c\u00e1i \u0111\u1eb9p nh\u1eadn th\u1ee9c \u0111\u01b0\u1ee3c"],
-    correct: 1,
-    correct: 0
+    correct: [1,0]
   },
   {
     question: "N\u0103m 1750, Baumgacten \u0111\u00e3 cho xu\u1ea5t b\u1ea3n cu\u1ed1n s\u00e1ch g\u00ec?",
@@ -278,7 +277,7 @@ const QUESTIONS = [
   {
     question: "C\u00f3 m\u1ea5y nh\u00f3m ch\u1ee7 th\u1ec3 th\u1ea9m m\u1ef9?",
     answers: ["A. 3", "B. 4", "C. 5", "D. 6"],
-    correct: 4
+    correct: 2
   },
   {
     question: "H\u00e3y \u0111i\u1ec1n ti\u1ebfp v\u00e0o n\u1ed9i dung c\u00f2n thi\u1ebfu sau: Gi\u00e1o d\u1ee5c th\u1ea9m m\u1ef9 theo \u2026 \u0111\u1ec1u h\u01b0\u1edbng t\u1edbi l\u00e0m cho con ng\u01b0\u1eddi ph\u00e1t tri\u1ec3n phong ph\u00fa v\u00e0 h\u00e0i h\u00f2a v\u00e0 l\u00e0m cho v\u0103n h\u00f3a th\u1ea9m m\u1ef9 \u0111\u01b0\u1ee3c x\u00e1c l\u1eadp trong c\u00e1c quan h\u1ec7 x\u00e3 h\u1ed9i?",
@@ -872,7 +871,7 @@ const QUESTIONS = [
   {
     question: "Th\u1ecb hi\u1ebfu th\u1ea9m m\u1ef9 l\u00e0 g\u00ec?",
     answers: ["A. L\u00e0 th\u00e1i \u0111\u1ed9 t\u00ecnh c\u1ea3m c\u1ee7a con ng\u01b0\u1eddi tr\u01b0\u1edbc c\u00e1i \u0111\u1eb9p, c\u00e1i x\u1ea5u", "B. L\u00e0 s\u1edf th\u00edch c\u1ee7a con ng\u01b0\u1eddi v\u1ec1 ph\u01b0\u01a1ng di\u1ec7n th\u1ea9m m\u1ef9", "C. S\u1edf th\u00edch c\u1ee7a con ng\u01b0\u1eddi v\u1ec1 ph\u01b0\u01a1ng di\u1ec7n th\u1ea9m m\u1ef9", "D. S\u1edf th\u00edch c\u1ee7a con ng\u01b0\u1eddi v\u1ec1 ph\u01b0\u01a1ng di\u1ec7n th\u1ea9m \u0111\u1ecbnh"],
-    correct: 1
+    correct: [1,2]
   },
   {
     question: "Th\u1ecb hi\u1ebfu th\u1ea9m m\u1ef9 \u1ed5n \u0111\u1ecbnh v\u00e0 b\u1ec1n v\u1eefng h\u01a1n, n\u00f3 l\u00e0 s\u1ef1 th\u1ed1ng nh\u1ea5t gi\u1eefa y\u1ebfu t\u1ed1 n\u00e0o?",
@@ -1017,7 +1016,7 @@ const QUESTIONS = [
   {
     question: "Ngh\u1ec7 thu\u1eadt ch\u1ecbu s\u1ef1 chi ph\u1ed1i c\u1ee7a quy lu\u1eadt n\u00e0o?",
     answers: ["A. C\u00e1c quy lu\u1eadt x\u00e3 h\u1ed9i", "B. C\u00e1c quy lu\u1eadt cu\u1ed9c s\u1ed1ng", "C. C\u00e1c quy lu\u1eadt l\u1ecbch s\u1eed", "D. C\u00e1c quy lu\u1eadt khoa h\u1ecdc"],
-    correct: 1
+    correct: 2
   },
   {
     question: "M\u1ee5c \u0111\u00edch c\u1ee7a s\u1ef1 ho\u00e0n thi\u1ec7n, ho\u00e0n m\u1ef9 trong ngh\u1ec7 thu\u1eadt l\u00e0 g\u00ec?",
