@@ -1285,8 +1285,8 @@ const QUESTIONS = [
     correct: 1
   },
   {
-    question: "Lao \u0111\u1ed9ng c\u00f3 y\u1ebfu t\u1ed1 n\u00e0o c\u1ee7a con ng\u01b0\u1eddi \u0111\u00e3 g\u1eafn li\u1ec1n v\u1edbi quy lu\u1eadt c\u1ee7a c\u00e1i \u0111\u1eb9p? E. Ho\u1ea1t \u0111\u1ed9ng gi\u1ea3i tr\u00ed",
-    answers: ["A. M\u1ee5c ti\u00eau, c\u00f3 s\u00e1ng t\u1ea1o", "B. M\u1ee5c \u0111\u00edch, c\u00f3 s\u00e1ng t\u1ea1o", "C. M\u1ee5c \u0111\u00edch, kh\u00f4ng s\u00e1ng t\u1ea1o", "D. M\u1ee5c \u0111\u00edch ho\u1eb7c c\u00f3 s\u00e1ng t\u1ea1o"],
+    question: "Lao \u0111\u1ed9ng c\u00f3 y\u1ebfu t\u1ed1 n\u00e0o c\u1ee7a con ng\u01b0\u1eddi \u0111\u00e3 g\u1eafn li\u1ec1n v\u1edbi quy lu\u1eadt c\u1ee7a c\u00e1i \u0111\u1eb9p?",
+    answers: ["A. M\u1ee5c ti\u00eau, c\u00f3 s\u00e1ng t\u1ea1o", "B. M\u1ee5c \u0111\u00edch, c\u00f3 s\u00e1ng t\u1ea1o", "C. M\u1ee5c \u0111\u00edch, kh\u00f4ng s\u00e1ng t\u1ea1o", "D. M\u1ee5c \u0111\u00edch ho\u1eb7c c\u00f3 s\u00e1ng t\u1ea1o","E. Ho\u1ea1t \u0111\u1ed9ng gi\u1ea3i tr\u00ed"],
     correct: 1
   },
   {
