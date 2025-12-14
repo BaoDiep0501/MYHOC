@@ -861,7 +861,7 @@ const QUESTIONS = [
     id: "CH144",
     question: "Nhà nguyên tử luận Đêmôcrit phát hiện vẻ đẹp có quy mô gì?",
     answers: ["Quy mô vừa phải, có chừng mực giữa các bộ phận trong một chỉnh thể", "Quy mô vừa phải, nó tồn tại trong sự cân xứng", "Quy mô vừa phải, nó tồn tại trong sự cân xứng, có chừng mực giữa các bộ phận trong một chỉnh thể", "Tồn tại trong sự cân xứng, có chừng mực giữa các bộ phận trong một chỉnh thể"],
-    correct: [1]
+    correct: [2]
   },
   {
     id: "CH145",
