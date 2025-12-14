@@ -1107,7 +1107,7 @@ const QUESTIONS = [
     id: "CH185",
     question: "Nhóm nào được gọi là nhóm cảm thụ các giá trị thẩm mỹ?",
     answers: ["Chủ thể thẩm định", "Chủ thể thưởng thức", "Chủ thể thẩm mỹ", "Chủ thể định cư"],
-    correct: [2]
+    correct: [1]
   },
   {
     id: "CH186",
